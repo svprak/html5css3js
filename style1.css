@@ -1,14 +1,4 @@
 body {
 	font-family: "arial";
-	color: #666;
-	padding: 0 20%;
-}
-li input {
-	display: none;
-}
-li.edit span {
-	display: none;
-}
-li.edit input {
-	display: initial;
+	color: #666;	 
 }
